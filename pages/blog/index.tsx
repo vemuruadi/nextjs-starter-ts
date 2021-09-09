@@ -9,7 +9,9 @@ function Blog() {
             </Head>
 
             <main className="max-w-4xl mx-auto mt-16 antialiased">
-                Blog - Coming Soon
+                <h3 className="text-4xl font-bold text-gray-900 lg:text-3xl dark:text-white">
+                    Blog - Coming Soon !
+                </h3>
                 
             </main>
         </div>
